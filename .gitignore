@@ -1,0 +1,33 @@
+# ==========================================
+# Unity Git Configuration - Track Assets Only
+# ==========================================
+
+# 1. Ignore everything in the project root by default
+/*
+
+# 2. Allow Git configuration and documentation
+!/.gitignore
+!/README.md
+!/DATAFLOW.md
+
+# 3. Whitelist the Assets directory and all its contents
+!/Assets/
+!/Assets/**
+
+# (Optional: If you ever want to open this project on another computer with full
+# URP pipeline & package configurations intact, uncomment the lines below):
+# !/Packages/
+# !/Packages/**
+# !/ProjectSettings/
+# !/ProjectSettings/**
+
+# 4. Explicitly ignore generated datasets, cache, and editor temp folders
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/obj/
+/Dataset/
+*.csproj
+*.sln
+.DS_Store

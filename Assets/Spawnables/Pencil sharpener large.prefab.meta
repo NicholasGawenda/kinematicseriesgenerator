@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c75c7ab1431114188ad1b413b08cc8fb
+timeCreated: 1514398757
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105519
+  packageName: Office Supplies Low Poly
+  packageVersion: 1.01
+  assetPath: Assets/Office Supplies Low Poly/Assets/Prefabs/Pencil sharpener large.prefab
+  uploadId: 220977

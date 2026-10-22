@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0db76a5c6d9094dc29c23991cd3cae61
+timeCreated: 1511138511
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105519
+  packageName: Office Supplies Low Poly
+  packageVersion: 1.01
+  assetPath: Assets/Office Supplies Low Poly/Assets/Prefabs/Hole_punch.prefab
+  uploadId: 220977
