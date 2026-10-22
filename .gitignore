@@ -1,5 +1,5 @@
 # ==========================================
-# Unity Git Configuration - Track Assets Only
+# Unity Git Configuration - Track Assets, Packages & ProjectSettings
 # ==========================================
 
 # 1. Ignore everything in the project root by default
@@ -14,14 +14,13 @@
 !/Assets/
 !/Assets/**
 
-# (Optional: If you ever want to open this project on another computer with full
-# URP pipeline & package configurations intact, uncomment the lines below):
-# !/Packages/
-# !/Packages/**
-# !/ProjectSettings/
-# !/ProjectSettings/**
+# 4. Whitelist Packages and ProjectSettings configurations
+!/Packages/
+!/Packages/**
+!/ProjectSettings/
+!/ProjectSettings/**
 
-# 4. Explicitly ignore generated datasets, cache, and editor temp folders
+# 5. Explicitly ignore generated datasets, cache, and editor temp folders
 /Library/
 /Temp/
 /Logs/
