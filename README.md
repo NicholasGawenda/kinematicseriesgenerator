@@ -2,7 +2,6 @@
 
 [![Unity](https://img.shields.io/badge/Unity-6000.0.36f1%20(Unity%206)-black.svg?logo=unity)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-Universal%20Render%20Pipeline%20(URP)-blue.svg)](https://unity.com/srp/universal-render-pipeline)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automated, headless-capable synthetic dataset generator built in **Unity (C# / URP)** designed to produce high-fidelity image sequences paired with synchronous physical ground-truth telemetry. 
 
