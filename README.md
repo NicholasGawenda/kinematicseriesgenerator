@@ -176,21 +176,3 @@ The generator can be executed in headless batchmode on local machines or remote 
   -randomizeCameraPose true
 ```
 
----
-
-## Git Tracking & Synchronization
-
-This repository uses a whitelist-based [`.gitignore`](.gitignore) that tracks **only the `Assets/` directory** and essential documentation, excluding all generated image datasets (`Dataset/`), editor cache (`Library/`, `Temp/`, `UserSettings/`), and temporary compiler artifacts.
-
-To push changes to your GitHub repository:
-```bash
-git add .
-git commit -m "Update dataset generator"
-git push -u origin main
-```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
