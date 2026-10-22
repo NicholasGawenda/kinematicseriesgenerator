@@ -16,10 +16,10 @@
 
 # (Optional: If you ever want to open this project on another computer with full
 # URP pipeline & package configurations intact, uncomment the lines below):
-# !/Packages/
-# !/Packages/**
-# !/ProjectSettings/
-# !/ProjectSettings/**
+!/Packages/
+!/Packages/**
+!/ProjectSettings/
+!/ProjectSettings/**
 
 # 4. Explicitly ignore generated datasets, cache, and editor temp folders
 /Library/
